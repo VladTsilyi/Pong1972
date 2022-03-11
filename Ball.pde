@@ -1,4 +1,4 @@
-void drawCircle() {
+void drawBall() {
 fill(255,0,0);
 ellipse(x, y, w, h);
 }
