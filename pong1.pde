@@ -16,7 +16,7 @@ void setup() {
 
 void draw() {
 background(0);
-drawCircle();
+drawBall();
 moveBall();
 bounceBall();
 drawPaddles();
